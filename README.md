@@ -12,7 +12,7 @@
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
-HEYOOOOOO
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -23,7 +23,7 @@ HEYOOOOOO
 
 ## Step 1: Enable GitHub Pages
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+HEYOOOOOO
 
 The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
